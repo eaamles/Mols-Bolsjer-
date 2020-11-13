@@ -5,3 +5,11 @@
 ![molsslogan](images/molsslogan.png)
 
 ~~~~
+kode eksemspel 
+>>
+<<
+tacs tacs 
+h1 
+h2 
+<div>
+~~~~
